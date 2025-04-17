@@ -1,0 +1,6 @@
+Airline,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Price,Class
+IndiGo,Delhi,Cochin,DEL → BOM → COK,22:20,01:10,2h 50m,1 stop,3897,Economy
+Air India,Kolkata,Banglore,CCU → BLR,05:50,08:20,2h 30m,non-stop,7662,Economy
+Jet Airways,Mumbai,Delhi,BOM → DEL,09:25,11:30,2h 5m,non-stop,6218,Economy
+SpiceJet,Delhi,Mumbai,DEL → BOM → BLR,18:05,20:10,2h 5m,1 stop,13302,Business
+IndiGo,Chennai,Kolkata,MAA → CCU,16:50,19:00,2h 10m,1 stop,3873,Economy
